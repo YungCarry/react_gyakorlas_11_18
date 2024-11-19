@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_gyakorlas_11_18/static/css/main.e6c13ad2.css",
+    "main.js": "/react_gyakorlas_11_18/static/js/main.c576d958.js",
+    "static/js/453.affe67af.chunk.js": "/react_gyakorlas_11_18/static/js/453.affe67af.chunk.js",
+    "index.html": "/react_gyakorlas_11_18/index.html",
+    "main.e6c13ad2.css.map": "/react_gyakorlas_11_18/static/css/main.e6c13ad2.css.map",
+    "main.c576d958.js.map": "/react_gyakorlas_11_18/static/js/main.c576d958.js.map",
+    "453.affe67af.chunk.js.map": "/react_gyakorlas_11_18/static/js/453.affe67af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c576d958.js"
+  ]
+}
